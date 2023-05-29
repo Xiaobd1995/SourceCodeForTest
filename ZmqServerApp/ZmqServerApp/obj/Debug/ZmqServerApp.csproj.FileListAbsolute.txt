@@ -1,0 +1,9 @@
+D:\WinformWorkPlace\ZmqServerApp\ZmqServerApp\bin\Debug\ZmqServerApp.exe.config
+D:\WinformWorkPlace\ZmqServerApp\ZmqServerApp\bin\Debug\ZmqServerApp.exe
+D:\WinformWorkPlace\ZmqServerApp\ZmqServerApp\bin\Debug\ZmqServerApp.pdb
+D:\WinformWorkPlace\ZmqServerApp\ZmqServerApp\obj\Debug\ZmqServerApp.csprojResolveAssemblyReference.cache
+D:\WinformWorkPlace\ZmqServerApp\ZmqServerApp\obj\Debug\ZmqServerApp.Form1.resources
+D:\WinformWorkPlace\ZmqServerApp\ZmqServerApp\obj\Debug\ZmqServerApp.Properties.Resources.resources
+D:\WinformWorkPlace\ZmqServerApp\ZmqServerApp\obj\Debug\ZmqServerApp.csproj.GenerateResource.Cache
+D:\WinformWorkPlace\ZmqServerApp\ZmqServerApp\obj\Debug\ZmqServerApp.exe
+D:\WinformWorkPlace\ZmqServerApp\ZmqServerApp\obj\Debug\ZmqServerApp.pdb
